@@ -1,4 +1,0 @@
-# Lab 2
-
-Placeholder: add lab 2 files and instructions here.
-In this lab, we worked through Modules 1–10 of the Titanic machine-learning notebook provided by our professor. Our task was to run each section, complete the knowledge checks, make small adjustments where required, and clearly explain what each code cell was doing. The overall problem we were trying to solve was predicting whether a passenger on the Titanic survived based on features such as age, sex, class, and ticket information. Our approach followed a typical ML workflow: loading and exploring the dataset, cleaning and preparing the data so the model could understand it, selecting and training a simple machine-learning model, and then evaluating its accuracy. The final results showed how well the model could correctly predict survival, giving us insight into which factors were most important and how effectively the model learned patterns in the data.
